@@ -143,7 +143,7 @@ class Animal {
         $this->name = $name;
     }
 
-    // دالة لطباعة صوت الحيوان
+   
     public function toString() {
         
     }
